@@ -1,0 +1,471 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Raiku\\My project (5)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B76FA5B-73A1-3BFA-7D7D-9124C00FC00B}|WaterSystem.csproj|c:\\users\\raiku\\my project (5)\\assets\\water-system\\scripts\\water.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B76FA5B-73A1-3BFA-7D7D-9124C00FC00B}|WaterSystem.csproj|solutionrelative:assets\\water-system\\scripts\\water.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22707A3B-C5AF-A35F-8533-808CC6576C39}|Unity.RenderPipelines.Universal.Runtime.csproj|c:\\users\\raiku\\my project (5)\\library\\packagecache\\com.unity.render-pipelines.universal@12.1.10\\runtime\\universalrenderpipeline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22707A3B-C5AF-A35F-8533-808CC6576C39}|Unity.RenderPipelines.Universal.Runtime.csproj|solutionrelative:library\\packagecache\\com.unity.render-pipelines.universal@12.1.10\\runtime\\universalrenderpipeline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|C:\\Users\\Raiku\\My project (5)\\assets\\controller\\objectcontroller\\guy\\guyaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|solutionrelative:assets\\controller\\objectcontroller\\guy\\guyaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|C:\\Users\\Raiku\\My project (5)\\assets\\controller\\objectcontroller\\npc\\npccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|solutionrelative:assets\\controller\\objectcontroller\\npc\\npccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|C:\\Users\\Raiku\\My project (5)\\assets\\switchcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|solutionrelative:assets\\switchcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|C:\\Users\\Raiku\\My project (5)\\assets\\controller\\objectcontroller\\npc\\npcstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|solutionrelative:assets\\controller\\objectcontroller\\npc\\npcstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|C:\\Users\\Raiku\\My project (5)\\assets\\buildblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|solutionrelative:assets\\buildblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|C:\\Users\\Raiku\\My project (5)\\assets\\controller\\objectcontroller\\guy\\guystats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|solutionrelative:assets\\controller\\objectcontroller\\guy\\guystats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B76FA5B-73A1-3BFA-7D7D-9124C00FC00B}|WaterSystem.csproj|C:\\Users\\Raiku\\My project (5)\\assets\\water-system\\scripts\\buoyantobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B76FA5B-73A1-3BFA-7D7D-9124C00FC00B}|WaterSystem.csproj|solutionrelative:assets\\water-system\\scripts\\buoyantobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{392F4EEA-677E-80E3-0A58-A0804ECF464E}|UnityEngine.UI.csproj|C:\\Users\\Raiku\\My project (5)\\library\\packagecache\\com.unity.ugui@1.0.0\\runtime\\eventsystem\\inputmodules\\baseinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{392F4EEA-677E-80E3-0A58-A0804ECF464E}|UnityEngine.UI.csproj|solutionrelative:library\\packagecache\\com.unity.ugui@1.0.0\\runtime\\eventsystem\\inputmodules\\baseinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|C:\\Users\\Raiku\\My project (5)\\assets\\hoverover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|solutionrelative:assets\\hoverover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E0EC2E-58EC-F1AF-6FE0-B5BB9B93778C}|Unity.RenderPipelines.Core.Editor.csproj|C:\\Users\\Raiku\\My project (5)\\library\\packagecache\\com.unity.render-pipelines.core@12.1.10\\editor\\materialupgrader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E0EC2E-58EC-F1AF-6FE0-B5BB9B93778C}|Unity.RenderPipelines.Core.Editor.csproj|solutionrelative:library\\packagecache\\com.unity.render-pipelines.core@12.1.10\\editor\\materialupgrader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|C:\\Users\\Raiku\\My project (5)\\assets\\controller\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|solutionrelative:assets\\controller\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|C:\\Users\\Raiku\\My project (5)\\assets\\volumesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|solutionrelative:assets\\volumesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|C:\\Users\\Raiku\\My project (5)\\assets\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|solutionrelative:assets\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{392F4EEA-677E-80E3-0A58-A0804ECF464E}|UnityEngine.UI.csproj|C:\\Users\\Raiku\\My project (5)\\library\\packagecache\\com.unity.ugui@1.0.0\\runtime\\eventsystem\\eventsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{392F4EEA-677E-80E3-0A58-A0804ECF464E}|UnityEngine.UI.csproj|solutionrelative:library\\packagecache\\com.unity.ugui@1.0.0\\runtime\\eventsystem\\eventsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A7CE8C-1FEE-79B7-4F38-65B86E59091A}|Unity.RenderPipelines.HighDefinition.Editor.csproj|C:\\Users\\Raiku\\My project (5)\\library\\packagecache\\com.unity.render-pipelines.high-definition@12.1.10\\editor\\buildprocessors\\hdrppreprocessbuild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A7CE8C-1FEE-79B7-4F38-65B86E59091A}|Unity.RenderPipelines.HighDefinition.Editor.csproj|solutionrelative:library\\packagecache\\com.unity.render-pipelines.high-definition@12.1.10\\editor\\buildprocessors\\hdrppreprocessbuild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|C:\\Users\\Raiku\\My project (5)\\assets\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|solutionrelative:assets\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|C:\\Users\\Raiku\\My project (5)\\assets\\models\\staticloaddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|solutionrelative:assets\\models\\staticloaddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|C:\\Users\\Raiku\\My project (5)\\assets\\models\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|solutionrelative:assets\\models\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|C:\\Users\\Raiku\\My project (5)\\assets\\glowingsphere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|solutionrelative:assets\\glowingsphere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|C:\\Users\\Raiku\\My project (5)\\assets\\controller\\scenecontroller\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|solutionrelative:assets\\controller\\scenecontroller\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|C:\\Users\\Raiku\\My project (5)\\assets\\controller\\scenecontroller\\settingmenuscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|solutionrelative:assets\\controller\\scenecontroller\\settingmenuscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|C:\\Users\\Raiku\\My project (5)\\assets\\controller\\cameracontroller\\flycameracontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|solutionrelative:assets\\controller\\cameracontroller\\flycameracontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|C:\\Users\\Raiku\\My project (5)\\assets\\blink\\art\\animals\\stylized\\demo_animals\\demodata\\animationdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|solutionrelative:assets\\blink\\art\\animals\\stylized\\demo_animals\\demodata\\animationdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\raiku\\my project (5)\\assets\\waterwaves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\waterwaves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GuyStats.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\My project (5)\\Assets\\Controller\\ObjectController\\Guy\\GuyStats.cs",
+              "RelativeDocumentMoniker": "Assets\\Controller\\ObjectController\\Guy\\GuyStats.cs",
+              "ToolTip": "C:\\Users\\Raiku\\My project (5)\\Assets\\Controller\\ObjectController\\Guy\\GuyStats.cs",
+              "RelativeToolTip": "Assets\\Controller\\ObjectController\\Guy\\GuyStats.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAMwEYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T05:55:53.872Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Water.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\My project (5)\\Assets\\water-system\\Scripts\\Water.cs",
+              "RelativeDocumentMoniker": "Assets\\water-system\\Scripts\\Water.cs",
+              "ToolTip": "C:\\Users\\Raiku\\My project (5)\\Assets\\water-system\\Scripts\\Water.cs",
+              "RelativeToolTip": "Assets\\water-system\\Scripts\\Water.cs",
+              "ViewState": "AQIAAH0BAAAAAAAAAAAowJMBAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T12:27:28.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UniversalRenderPipeline.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\My project (5)\\Library\\PackageCache\\com.unity.render-pipelines.universal@12.1.10\\Runtime\\UniversalRenderPipeline.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal@12.1.10\\Runtime\\UniversalRenderPipeline.cs",
+              "ToolTip": "C:\\Users\\Raiku\\My project (5)\\Library\\PackageCache\\com.unity.render-pipelines.universal@12.1.10\\Runtime\\UniversalRenderPipeline.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.universal@12.1.10\\Runtime\\UniversalRenderPipeline.cs",
+              "ViewState": "AQIAADIBAAAAAAAAAAAqwGQBAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T11:32:47.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "WaterWaves.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\My project (5)\\Assets\\WaterWaves.cs",
+              "RelativeDocumentMoniker": "Assets\\WaterWaves.cs",
+              "ToolTip": "C:\\Users\\Raiku\\My project (5)\\Assets\\WaterWaves.cs",
+              "RelativeToolTip": "Assets\\WaterWaves.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAuwD4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T04:00:00.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GuyAction.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\My project (5)\\Assets\\Controller\\ObjectController\\Guy\\GuyAction.cs",
+              "RelativeDocumentMoniker": "Assets\\Controller\\ObjectController\\Guy\\GuyAction.cs",
+              "ToolTip": "C:\\Users\\Raiku\\My project (5)\\Assets\\Controller\\ObjectController\\Guy\\GuyAction.cs",
+              "RelativeToolTip": "Assets\\Controller\\ObjectController\\Guy\\GuyAction.cs",
+              "ViewState": "AQIAALABAAAAAAAAAIBJwMUBAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T17:46:36.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BuildBlock.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\My project (5)\\Assets\\BuildBlock.cs",
+              "RelativeDocumentMoniker": "Assets\\BuildBlock.cs",
+              "ToolTip": "C:\\Users\\Raiku\\My project (5)\\Assets\\BuildBlock.cs",
+              "RelativeToolTip": "Assets\\BuildBlock.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwCcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T02:58:47.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SwitchCamera.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\My project (5)\\Assets\\SwitchCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\SwitchCamera.cs",
+              "ToolTip": "C:\\Users\\Raiku\\My project (5)\\Assets\\SwitchCamera.cs",
+              "RelativeToolTip": "Assets\\SwitchCamera.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T11:13:25.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BuoyantObject.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\My project (5)\\Assets\\water-system\\Scripts\\BuoyantObject.cs",
+              "RelativeDocumentMoniker": "Assets\\water-system\\Scripts\\BuoyantObject.cs",
+              "ToolTip": "C:\\Users\\Raiku\\My project (5)\\Assets\\water-system\\Scripts\\BuoyantObject.cs",
+              "RelativeToolTip": "Assets\\water-system\\Scripts\\BuoyantObject.cs",
+              "ViewState": "AQIAAKQAAAAAAAAAAAAlwLsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T14:49:04.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HoverOver.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\My project (5)\\Assets\\HoverOver.cs",
+              "RelativeDocumentMoniker": "Assets\\HoverOver.cs",
+              "ToolTip": "C:\\Users\\Raiku\\My project (5)\\Assets\\HoverOver.cs",
+              "RelativeToolTip": "Assets\\HoverOver.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwBcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T03:09:23.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NPCController.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\My project (5)\\Assets\\Controller\\ObjectController\\NPC\\NPCController.cs",
+              "RelativeDocumentMoniker": "Assets\\Controller\\ObjectController\\NPC\\NPCController.cs",
+              "ToolTip": "C:\\Users\\Raiku\\My project (5)\\Assets\\Controller\\ObjectController\\NPC\\NPCController.cs",
+              "RelativeToolTip": "Assets\\Controller\\ObjectController\\NPC\\NPCController.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAYwFUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T10:36:38.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NPCStats.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\My project (5)\\Assets\\Controller\\ObjectController\\NPC\\NPCStats.cs",
+              "RelativeDocumentMoniker": "Assets\\Controller\\ObjectController\\NPC\\NPCStats.cs",
+              "ToolTip": "C:\\Users\\Raiku\\My project (5)\\Assets\\Controller\\ObjectController\\NPC\\NPCStats.cs",
+              "RelativeToolTip": "Assets\\Controller\\ObjectController\\NPC\\NPCStats.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAgwGwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T06:48:01.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainController.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\My project (5)\\Assets\\Controller\\MainController.cs",
+              "RelativeDocumentMoniker": "Assets\\Controller\\MainController.cs",
+              "ToolTip": "C:\\Users\\Raiku\\My project (5)\\Assets\\Controller\\MainController.cs",
+              "RelativeToolTip": "Assets\\Controller\\MainController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T01:21:25.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaseInput.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\My project (5)\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\InputModules\\BaseInput.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\InputModules\\BaseInput.cs",
+              "ToolTip": "C:\\Users\\Raiku\\My project (5)\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\InputModules\\BaseInput.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\InputModules\\BaseInput.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAvwH0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T03:28:55.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MaterialUpgrader.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\My project (5)\\Library\\PackageCache\\com.unity.render-pipelines.core@12.1.10\\Editor\\MaterialUpgrader.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.core@12.1.10\\Editor\\MaterialUpgrader.cs",
+              "ToolTip": "C:\\Users\\Raiku\\My project (5)\\Library\\PackageCache\\com.unity.render-pipelines.core@12.1.10\\Editor\\MaterialUpgrader.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.core@12.1.10\\Editor\\MaterialUpgrader.cs",
+              "ViewState": "AQIAAKIBAAAAAAAAAIBJwMUBAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T11:30:35.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\My project (5)\\Assets\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "Assets\\Models\\Item.cs",
+              "ToolTip": "C:\\Users\\Raiku\\My project (5)\\Assets\\Models\\Item.cs",
+              "RelativeToolTip": "Assets\\Models\\Item.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAjwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T17:23:14.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "VolumeSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\My project (5)\\Assets\\VolumeSettings.cs",
+              "RelativeDocumentMoniker": "Assets\\VolumeSettings.cs",
+              "ToolTip": "C:\\Users\\Raiku\\My project (5)\\Assets\\VolumeSettings.cs",
+              "RelativeToolTip": "Assets\\VolumeSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T05:52:03.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GlowingSphere.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\My project (5)\\Assets\\GlowingSphere.cs",
+              "RelativeDocumentMoniker": "Assets\\GlowingSphere.cs",
+              "ToolTip": "C:\\Users\\Raiku\\My project (5)\\Assets\\GlowingSphere.cs",
+              "RelativeToolTip": "Assets\\GlowingSphere.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAowCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T22:50:49.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\My project (5)\\Assets\\Models\\Weapon.cs",
+              "RelativeDocumentMoniker": "Assets\\Models\\Weapon.cs",
+              "ToolTip": "C:\\Users\\Raiku\\My project (5)\\Assets\\Models\\Weapon.cs",
+              "RelativeToolTip": "Assets\\Models\\Weapon.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADgvykAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T02:45:04.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EventSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\My project (5)\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\EventSystem.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\EventSystem.cs",
+              "ToolTip": "C:\\Users\\Raiku\\My project (5)\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\EventSystem.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\EventSystem.cs",
+              "ViewState": "AQIAAMsBAAAAAAAAAAD4v+8BAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T17:02:14.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HDRPPreprocessBuild.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\My project (5)\\Library\\PackageCache\\com.unity.render-pipelines.high-definition@12.1.10\\Editor\\BuildProcessors\\HDRPPreprocessBuild.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.high-definition@12.1.10\\Editor\\BuildProcessors\\HDRPPreprocessBuild.cs",
+              "ToolTip": "C:\\Users\\Raiku\\My project (5)\\Library\\PackageCache\\com.unity.render-pipelines.high-definition@12.1.10\\Editor\\BuildProcessors\\HDRPPreprocessBuild.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.high-definition@12.1.10\\Editor\\BuildProcessors\\HDRPPreprocessBuild.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAmwFgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T14:51:19.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StaticLoadData.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\My project (5)\\Assets\\Models\\StaticLoadData.cs",
+              "RelativeDocumentMoniker": "Assets\\Models\\StaticLoadData.cs",
+              "ToolTip": "C:\\Users\\Raiku\\My project (5)\\Assets\\Models\\StaticLoadData.cs",
+              "RelativeToolTip": "Assets\\Models\\StaticLoadData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T13:54:33.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\My project (5)\\Assets\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\AudioManager.cs",
+              "ToolTip": "C:\\Users\\Raiku\\My project (5)\\Assets\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\AudioManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T02:08:58.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SettingMenuScript.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\My project (5)\\Assets\\Controller\\SceneController\\SettingMenuScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Controller\\SceneController\\SettingMenuScript.cs",
+              "ToolTip": "C:\\Users\\Raiku\\My project (5)\\Assets\\Controller\\SceneController\\SettingMenuScript.cs",
+              "RelativeToolTip": "Assets\\Controller\\SceneController\\SettingMenuScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T06:40:48.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SpawnManager.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\My project (5)\\Assets\\Controller\\SceneController\\SpawnManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Controller\\SceneController\\SpawnManager.cs",
+              "ToolTip": "C:\\Users\\Raiku\\My project (5)\\Assets\\Controller\\SceneController\\SpawnManager.cs",
+              "RelativeToolTip": "Assets\\Controller\\SceneController\\SpawnManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T06:40:57.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FlyCameraControl.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\My project (5)\\Assets\\Controller\\CameraController\\FlyCameraControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Controller\\CameraController\\FlyCameraControl.cs",
+              "ToolTip": "C:\\Users\\Raiku\\My project (5)\\Assets\\Controller\\CameraController\\FlyCameraControl.cs",
+              "RelativeToolTip": "Assets\\Controller\\CameraController\\FlyCameraControl.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T13:23:47.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AnimationDemo.cs",
+              "DocumentMoniker": "C:\\Users\\Raiku\\My project (5)\\Assets\\Blink\\Art\\Animals\\Stylized\\Demo_Animals\\DemoData\\AnimationDemo.cs",
+              "RelativeDocumentMoniker": "Assets\\Blink\\Art\\Animals\\Stylized\\Demo_Animals\\DemoData\\AnimationDemo.cs",
+              "ToolTip": "C:\\Users\\Raiku\\My project (5)\\Assets\\Blink\\Art\\Animals\\Stylized\\Demo_Animals\\DemoData\\AnimationDemo.cs",
+              "RelativeToolTip": "Assets\\Blink\\Art\\Animals\\Stylized\\Demo_Animals\\DemoData\\AnimationDemo.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAADwvygAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T06:57:50.749Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
